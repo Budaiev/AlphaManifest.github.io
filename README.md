@@ -4,16 +4,15 @@ You can use the [editor on GitHub](https://github.com/Budaiev/AlphaManifest.gith
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-<!DOCTYPE html>
-<html>
-<body>
 
 <a href="itms-services://?action=download-manifest&url=https://github.com/Budaiev/AlphaManifest.github.io/blob/master/manifest.plist">Install Alpha App</a>
 
-</body>
-</html>
 
-TO TEST IT use [manifest link](https://github.com/Budaiev/ManifestAlphaDepliy/blob/master/manifest.plist) 
+
+<a href="itms-services://?action=download-manifest&url=https://github.com/Budaiev/AlphaManifest.github.io/blob/master/manifest.plist">Install Alpha App</a>
+
+
+TO TEST IT use [manifest link](https://github.com/Budaiev/AlphaManifest.github.io/blob/master/manifest.plist) 
 
 ### Markdown
 
