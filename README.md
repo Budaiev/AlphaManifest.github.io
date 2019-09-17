@@ -12,7 +12,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 <a href="itms-services://?action=download-manifest&url=https://github.com/Budaiev/AlphaManifest.github.io/blob/master/manifest.plist">Install Alpha App</a>
 
 
-TO TEST IT use [manifest link](https://github.com/Budaiev/AlphaManifest.github.io/blob/master/manifest.plist) 
+TO TEST IT use [manifest link](https://raw.githubusercontent.com/Budaiev/AlphaManifest.github.io/master/manifest.plist) 
 
 ### Markdown
 
