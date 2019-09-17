@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://www.example.com/alphatest/budaiev_alpha</string>
+					<string>https://github.com/Budaiev/AlphaManifest.github.io/blob/master/Alpha%20JuicePass%20Enterprise-7B956E1D-633D-49DF-8ABA-F8B3F95744C3.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -43,7 +43,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://www.example.com/alphatest/budaiev_alpha-7B956E1D-633D-49DF-8ABA-F8B3F95744C3</string>
+					<string>https://github.com/Budaiev/AlphaManifest.github.io/blob/master/Alpha%20JuicePass%20Enterprise-7B956E1D-633D-49DF-8ABA-F8B3F95744C3.ipa</string>
 					<key>variantDescriptors</key>
 					<array/>
 					<key>variantIds</key>
@@ -58,7 +58,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://www.example.com/alphatest/budaiev_alpha-C3ADC5C3-1A7E-435C-AE96-FF1B48DBE0B4</string>
+					<string>https://github.com/Budaiev/AlphaManifest.github.io/blob/master/Alpha%20JuicePass%20Enterprise-7B956E1D-633D-49DF-8ABA-F8B3F95744C3.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
