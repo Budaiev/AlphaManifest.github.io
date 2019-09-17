@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compileBitcode</key>
+	<true/>
+	<key>destination</key>
+	<string>export</string>
+	<key>manifest</key>
+	<dict>
+		<key>appURL</key>
+		<string>https://www.example.com/alphatest/budaiev_alpha</string>
+		<key>displayImageURL</key>
+		<string>https://www.example.com/alphatest/image57</string>
+		<key>fullSizeImageURL</key>
+		<string>https://www.example.com/alphatest/image512</string>
+	</dict>
+	<key>method</key>
+	<string>ad-hoc</string>
+	<key>provisioningProfiles</key>
+	<dict>
+		<key>com.dnt-lab.entercharge</key>
+		<string>AdHocEnterprise</string>
+	</dict>
+	<key>signingCertificate</key>
+	<string>iPhone Distribution</string>
+	<key>signingStyle</key>
+	<string>manual</string>
+	<key>stripSwiftSymbols</key>
+	<true/>
+	<key>teamID</key>
+	<string>3H76UF3H8K</string>
+	<key>thinning</key>
+	<string>iPhone9,1</string>
+</dict>
+</plist>
