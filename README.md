@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 <html>
 <body>
 
-<a href="itms-services://?action=download-manifest&url=https://github.com/Budaiev/ManifestAlphaDepliy/blob/master/manifest.plist">Install Alpha App</a>
+<a href="itms-services://?action=download-manifest&url=https://github.com/Budaiev/AlphaManifest.github.io/blob/master/manifest.plist">Install Alpha App</a>
 
 </body>
 </html>
